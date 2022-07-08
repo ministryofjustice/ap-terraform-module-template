@@ -5,4 +5,4 @@ on:
 
 jobs:
   run-commitlint-on-pr:
-    uses: ap-shared-github-actions/.github/workflows/commitlint.yaml@main
+    uses: ministryofjustice/ap-shared-github-actions/.github/workflows/commitlint.yaml@main
